@@ -1,0 +1,7 @@
+tm:
+  ui:
+    width: 1920
+    heigth: 1080
+  performance:
+    c: 100
+    n: 10000
