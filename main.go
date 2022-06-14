@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"tm/app/tcmd"
+)
 
 func main() {
-	fmt.Println("welcome to tm")
+	tcmd.Execute()
 }
